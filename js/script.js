@@ -1,0 +1,42 @@
+const questions = [
+  {
+    question: "How old is Bryan?",
+    a: "10",
+    b: "17",
+    c: "25",
+    d: "110",
+    correct: "c",
+  },
+  {
+    question: "Which instrument has 6 strings",
+    a: "Guitar",
+    b: "Violin",
+    c: "Bass Guitar",
+    d: "Cello",
+    correct: "a",
+  },
+  {
+    question: "Which fruit is Yellow?",
+    a: "Apple",
+    b: "Orange",
+    c: "Kiwi",
+    d: "Banana",
+    correct: "d",
+  },
+  {
+    question: "Which sport involves kicking a ball",
+    a: "Basketball",
+    b: "Soccer",
+    c: "Tennis",
+    d: "Baseball",
+    correct: "b",
+  },
+  {
+    question: "Which martial art involves no strikes",
+    a: "Jiu Jitsu",
+    b: "Boxing",
+    c: "Muay Thai",
+    d: "Karate",
+    correct: "a",
+  },
+];
